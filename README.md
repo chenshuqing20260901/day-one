@@ -8,3 +8,4 @@
 ## 日志
 - Day 1：完成基线盘点 + 搭建GitHub仓库day-one，学会git clone、git status，成功把仓库拉到Termux本地
 # day-one
+- Day 6（2026-11-27）【工具】 写出 log.py，日志/打卡/commit 三合一
